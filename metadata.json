@@ -1,0 +1,6 @@
+{
+  "name": "DieCastHub",
+  "description": "Premium die-cast collectible model cars marketplace and showcase for automotive enthusiasts and collectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
